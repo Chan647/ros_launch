@@ -1,0 +1,6 @@
+/LEEJUNWOO/my_driver:
+  ros__parameters:
+    max_velocity: 0.25
+    sensor_range: 3.5
+    linear_speed: 0.15
+    angular_speed: 0.5

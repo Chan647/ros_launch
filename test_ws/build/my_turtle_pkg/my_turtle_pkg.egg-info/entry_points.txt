@@ -1,0 +1,6 @@
+[console_scripts]
+circle_node = my_turtle_pkg.circle_turtle:main
+ct_node = my_turtle_pkg.ct_node:main
+param_test_node = my_turtle_pkg.param_node:main
+waf_circle_node = my_turtle_pkg.circle_node:main
+

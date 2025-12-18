@@ -1,0 +1,4 @@
+/custom_param_node:
+  ros__parameters:
+    my_speed : 3.14
+    robot_name : "YamlBot"

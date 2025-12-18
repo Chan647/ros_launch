@@ -1,0 +1,5 @@
+Chan:
+  waf_circle_node:
+    ros__parameters:
+      max_velocity: 0.25
+      sensor_range: 3.5
